@@ -1,0 +1,33 @@
+body{
+
+    background-color: rgb(149, 14, 59);
+}
+
+div {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  div video {
+    padding: 40px;
+    display: block;
+    width: 400px;
+    margin: 40px auto;
+  }
+
+
+  .fname {
+    margin-bottom: 10px;
+  }
+
+  .form-list{
+
+   color: black;
+   margin: 10rem 8rem 0 15rem;
+  }
+  
+  
